@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bimal Kafle</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate software developer and Open Source Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimalkaf&label=Profile%20views&color=0e75b6&style=flat" alt="bimalkaf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bimalkaf" alt="bimalkaf" /></a> </p>
-📆 As of 8th September 2023 
+📆 As of 9th September 2023 
 
 - 🔭 I’m currently working at **Capgemini**
 
