@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimalkaf&label=Profile%20views&color=0e75b6&style=flat" alt="bimalkaf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bimalkaf" alt="bimalkaf" /></a> </p>
-📆 As of 5th October 2023 
+📆 As of November 2023 
 
-- 🔭 I’m currently working at **Capgemini**
+- 🔭 I’m currently teaching  android app development online.
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Kotlin**
 
 - 🤝 I’m looking for a new role in **Software development**
 
